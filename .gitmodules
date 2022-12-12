@@ -1,0 +1,6 @@
+[submodule "HackFit-Server"]
+	path = HackFit-Server
+	url = https://github.com/ersakantibelva/HackFit-Server.git
+[submodule "HackFit-Client"]
+	path = HackFit-Client
+	url = https://github.com/ersakantibelva/HackFit-Client.git
